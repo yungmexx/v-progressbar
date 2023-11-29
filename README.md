@@ -1,6 +1,9 @@
 
 # Progressbar
 
+Preview
+https://youtu.be/91e7HsSK-EQ
+![image](https://github.com/yungmexx/v-progressbar/assets/113365369/10919597-896b-454c-87f5-be25d0627e17)
 
 # Usage
 
